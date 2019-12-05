@@ -110,6 +110,7 @@
 	</distributionManagement>
 	
 	<build>
+		<defaultGoal>install</defaultGoal>
 		<finalName>maven-web-application</finalName>
 		
 		<plugins>
